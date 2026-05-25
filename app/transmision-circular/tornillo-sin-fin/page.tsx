@@ -71,8 +71,8 @@ export default function TornilloSinFinPage() {
         <div className="relative rounded-xl overflow-hidden" style={{ paddingTop: "56.25%" }}>
           <iframe
             className="absolute inset-0 w-full h-full"
-            src="https://www.youtube-nocookie.com/embed/1lcly-fFmqw?rel=0&modestbranding=1"
-            title="Tornillo sin fin y corona"
+            src="https://www.youtube-nocookie.com/embed/J4WZOnwXWjY?rel=0&modestbranding=1"
+            title="Mecanismos: Tornillo sin fin con corona"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           />

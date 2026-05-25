@@ -75,8 +75,8 @@ export default function AutomatismosPage() {
         <div className="relative rounded-xl overflow-hidden" style={{ paddingTop: "56.25%" }}>
           <iframe
             className="absolute inset-0 w-full h-full"
-            src="https://www.youtube-nocookie.com/embed/AnVjIGj3__c?rel=0&modestbranding=1"
-            title="Automatismos y robots"
+            src="https://www.youtube-nocookie.com/embed/f8GnnCHo-Sc?rel=0&modestbranding=1"
+            title="Automatización y robótica industrial"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           />

@@ -85,8 +85,8 @@ export default function TornilloTuercaPage() {
         <div className="relative rounded-xl overflow-hidden" style={{ paddingTop: "56.25%" }}>
           <iframe
             className="absolute inset-0 w-full h-full"
-            src="https://www.youtube-nocookie.com/embed/Bsoo4B0F-4c?rel=0&modestbranding=1"
-            title="Tornillo-tuerca mecanismo"
+            src="https://www.youtube-nocookie.com/embed/FLGFUZqclUc?rel=0&modestbranding=1"
+            title="Mecanismos de transformación: tornillo-tuerca"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           />

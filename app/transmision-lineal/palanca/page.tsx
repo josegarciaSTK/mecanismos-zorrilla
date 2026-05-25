@@ -113,8 +113,8 @@ export default function PalancaPage() {
         <div className="relative rounded-xl overflow-hidden" style={{ paddingTop: "56.25%" }}>
           <iframe
             className="absolute inset-0 w-full h-full"
-            src="https://www.youtube-nocookie.com/embed/YwaERJ640DM?rel=0&modestbranding=1"
-            title="La palanca — mecanismo"
+            src="https://www.youtube-nocookie.com/embed/BjmUfxB05WU?rel=0&modestbranding=1"
+            title="Mecanismos ESO — La palanca"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           />

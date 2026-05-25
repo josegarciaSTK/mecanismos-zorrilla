@@ -89,8 +89,8 @@ export default function PoleaPage() {
         <div className="relative rounded-xl overflow-hidden" style={{ paddingTop: "56.25%" }}>
           <iframe
             className="absolute inset-0 w-full h-full"
-            src="https://www.youtube-nocookie.com/embed/dMpCITN1O_4?rel=0&modestbranding=1"
-            title="La polea — mecanismo"
+            src="https://www.youtube-nocookie.com/embed/69GZXIgNCEg?rel=0&modestbranding=1"
+            title="Polea simple fija y móvil"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           />

@@ -74,8 +74,8 @@ export default function DefinicionPage() {
         <div className="relative rounded-xl overflow-hidden" style={{ paddingTop: "56.25%" }}>
           <iframe
             className="absolute inset-0 w-full h-full"
-            src="https://www.youtube-nocookie.com/embed/2A3etyhUD-s?rel=0&modestbranding=1"
-            title="Mecanismos: tipos de movimiento"
+            src="https://www.youtube-nocookie.com/embed/XPHT-7EA5PQ?rel=0&modestbranding=1"
+            title="Tipos de movimiento en mecanismos"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           />

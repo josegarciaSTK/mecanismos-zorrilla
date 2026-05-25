@@ -81,8 +81,8 @@ export default function PinonCadenaPage() {
         <div className="relative rounded-xl overflow-hidden" style={{ paddingTop: "56.25%" }}>
           <iframe
             className="absolute inset-0 w-full h-full"
-            src="https://www.youtube-nocookie.com/embed/DHndvrIkc0k?rel=0&modestbranding=1"
-            title="Piñón y cadena"
+            src="https://www.youtube-nocookie.com/embed/0_aKj7piQLE?rel=0&modestbranding=1"
+            title="Transmisión piñón-cadena en bicicleta"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           />
